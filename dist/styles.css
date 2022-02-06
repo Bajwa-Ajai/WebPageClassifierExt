@@ -1,0 +1,30 @@
+.container {
+  margin: 1.5em;
+  text-align: center;
+  width:200px;
+}
+
+.result {
+  margin-top: 1em;
+}
+.enter-URL{
+  margin:4px;
+}
+.search-btn {
+  background-color: #08d;
+  border-radius: 12px;
+  border: 0;
+  box-sizing: border-box;
+  color: #eee;
+  cursor: pointer;
+  font-size: 12px;
+  height: 40px;
+  margin-top: 5px;
+  /* // outline: 0; */
+  text-align: center;
+  width: 60%;
+}
+
+.search-btn:active {
+  background-color: #06b;
+}
